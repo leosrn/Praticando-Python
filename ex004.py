@@ -7,3 +7,4 @@ print('Só temos letras?', alg.isalpha())
 print('Está em maiúsculo?', alg.isupper())
 print("Está em minúsculo?", alg.islower())
 print('Está capitalizada?', alg.istitle())
+#Módulo1
