@@ -1,0 +1,10 @@
+import random
+al1 = str(input('1° aluno: '))
+al2 = str(input('2° aluno: '))
+al3 = str(input('3° aluno: '))
+al4 = str(input('4° aluno: '))
+alunos = [al1, al2, al3, al4]
+random.shuffle(alunos)
+print('A ordem de apresentação sorteada foi: ')
+print(alunos)
+

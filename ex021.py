@@ -1,0 +1,1 @@
+#Não foi possivel instalar o módulo pygame 
