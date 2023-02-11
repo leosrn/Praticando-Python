@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44aafa2-2856-4751-8719-744574590074" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex061.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex062.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex064.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex056">
+  <component name="RunManager" selected="Python.ex065">
     <configuration name="ex004" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Praticando-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Praticando-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex051.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex061.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Praticando-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex052.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex062.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Praticando-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex054.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex063.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Praticando-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex055.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex064.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Praticando-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex056.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex065.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex056" />
-        <item itemvalue="Python.ex055" />
-        <item itemvalue="Python.ex054" />
-        <item itemvalue="Python.ex052" />
-        <item itemvalue="Python.ex051" />
+        <item itemvalue="Python.ex065" />
+        <item itemvalue="Python.ex064" />
+        <item itemvalue="Python.ex063" />
+        <item itemvalue="Python.ex062" />
+        <item itemvalue="Python.ex061" />
       </list>
     </recent_temporary>
   </component>
